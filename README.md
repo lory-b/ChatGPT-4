@@ -1,6 +1,6 @@
-# ChatGPT中文版：国内免费访问指南（支持GPT-4，无需翻墙，实时更新 2024）
+# ChatGPT中文版免费：国内访问指南（支持GPT-o1-pro，无需翻墙，实时更新 2024）
 
-> **最后更新：2024/12/02**  
+> **最后更新：2024/12/10**  
 > **关键词：ChatGPT中文版、国内免费使用、GPT-4、无需翻墙、实时更新**
 
 想体验 **ChatGPT中文版**？无需翻墙，支持 GPT-4 和 Claude3，国内用户专享优化，免费试用无限次！本指南为您整理了最新的国内 ChatGPT 中文版访问方法、推荐镜像站点及常见问题解答，帮助您轻松上手。
@@ -26,7 +26,7 @@
 | **站点名称**         | **支持版本**         | **免费额度**           | **独特功能**              | **访问稳定性** |
 |----------------------|---------------------|------------------------|--------------------------|----------------|
 | [snakegpt.work](https://snakegpt.work) | GPT-4, Claude3         | 有限     | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐       |
-| [gptcat.net](https://gptcat.net)        | GPT-4, Claude3         | 有限                | 高级语音对话支持            | ⭐⭐⭐⭐⭐        |
+| [gptcat.net](https://gptcat.net)        | GPT-4, Claude3,GPT-o1-pro         | 有限                | 高级语音对话支持            | ⭐⭐⭐⭐⭐        |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)    | GPT-4, GPT-3.5         | 限                      | 提供 API 调用，开发者友好   | ⭐⭐⭐⭐        |
 | [gptdog.online](https://gptdog.online)  | GPT-3.5                | 无                      | 界面简单，新手友好          | ⭐⭐⭐         |
 
